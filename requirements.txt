@@ -1,0 +1,12 @@
+transformers
+datasets
+torch
+faiss-cpu
+wget
+matplotlib
+scikit-learn
+sentencepiece
+torchtext
+sacremoses
+torch
+huggingface_hub[hf_xet]
